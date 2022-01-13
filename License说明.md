@@ -30,7 +30,27 @@
 >? 若您的应用正使用旧版 License 进行校验，可继续使用旧版 License 或改用新版 License（推荐）。未来新购买获赠的 License 进行绑定时将不再提供旧版 License 的 URL 和 Key 。
 
 ## 测试版 License
-您可以登录 [腾讯云视立方控制台](https://console.cloud.tencent.com/vcube) 在线申请为期28天的试用 License（试用期为14天，可免费续期一次，合计28天），该 License 可以在直播推流模块和短视频模块上使用。
+您可以登录 [腾讯云视立方控制台](https://console.cloud.tencent.com/vcube) 在线申请不同功能模块的试用 License，每个功能模块均可申请1次，不同功能模块的试用License有效期如下表：
+<table>
+<thead>
+<tr>
+<th colspan=2>测试版License功能模块</th>
+<th>规则</th>
+</tr>
+</thead>
+<tbody><tr>
+<td colspan=2>直播推流</td>
+<td>试用期为14天，可免费续期一次，合计28天</td>
+</tr>
+<tr>
+<td colspan=2>短视频</td>
+<td>试用期为14天，可免费续期一次，合计28天</td>
+</tr>
+<tr>
+<td colspan=2>终端极速高清</td>
+<td>试用期为90天，如需更新有效期，请联系商务或提交工单</td>
+</tr>
+</tbody></table>
 
 > ? 
 > - 每个功能模块仅可申请一次，长期使用请 [购买](https://buy.cloud.tencent.com/vcube) 正式 License。
@@ -41,6 +61,8 @@
 ## 正式版 License
 > ! 获得 License 解锁功能模块的计费详情，请参见 [计费概述](https://cloud.tencent.com/document/product/1449/56972)。
 
+
+目前[直播推流模块](下面直播推流标题)和[短视频模块](下面短视频模块标题)有正式版License；终端极速高清模块处于体验期，暂无正式版License，如有需求可使用[测试版License](终端极速高清license说明文档)。
 [](id:Live)
 ### 直播推流模块
 
