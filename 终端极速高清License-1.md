@@ -15,12 +15,16 @@
 **新建测试license**
 1. 登录 **[腾讯云视立方控制台](https://console.cloud.tencent.com/vcube)**，单击 **创建测试License**。
 ![](https://main.qcloudimg.com/raw/a623b59b4989ef4d713fc5a2e13927c1.png)
+
 2. 根据实际需求填写 `App Name`、`Package Name` 和 `Bundle ID`，勾选功能模块 **终端极速高清**，单击 **确定**。
 （更新图）
+
 3. 测试版 License 成功创建后，页面会显示生成的 License 信息。在 SDK 初始化配置时需要传入 Key 和 License URL 两个参数，请妥善保存以下信息。
 （更新图）
 
-**在已有测试license中新增功能模块**
-1.登录 **[腾讯云视立方控制台](https://console.cloud.tencent.com/vcube)**，在已有的测试licens
+**在已有测试license中解锁**
+
+1.登录 **[腾讯云视立方控制台](https://console.cloud.tencent.com/vcube)**，在已有的测试license中，点击**解锁新功能模块**，勾选**终端极速高清**，单击**确定**。
 （更新图）
-2. 根据实际需求填写 `App Name`、`Package Name` 和 `Bundle ID`，勾选功能模块 **终端极速高清**，单击 **确定**。
+
+2.功能解锁成功后，可查看License信息。
