@@ -51,9 +51,9 @@ TUICallKit 属于 IM 增值服务之一，需要您单独开通/购买后使用�
 <tbody><tr>
 <td style="text-align: center" colspan=2>价格</td>
 <td style="text-align: center">0元/7天</td>
-<td style="text-align: center">500元/月<br><a href="https://buy.cloud.tencent.com/vcube?type=call">立即选购</a></td>
-<td style="text-align: center">1000元/月<br><a href="https://buy.cloud.tencent.com/vcube?type=call">立即选购</a></td>
-<td style="text-align: center">1500元/月<br><a href="https://buy.cloud.tencent.com/vcube?type=call">立即选购</a></td>
+<td style="text-align: center">500元/月<br></td>
+<td style="text-align: center">1000元/月<br></td>
+<td style="text-align: center">1500元/月<br></td>
 </tr>
 <tr>
 <td style="text-align: center" colspan=2>即时通信相关功能</td>
